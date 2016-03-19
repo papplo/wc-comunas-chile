@@ -53,7 +53,7 @@ function  wc_cl_comunas_de_santiago( $states ) {
                             'IN' => 'Independencia',
                             'MU' => 'Maipú',
                             'SJ' => 'San Joaquín',
-                            'CI => 'La Cisterna',
+                            'CI' => 'La Cisterna',
                             'NN' => 'Ñuñoa',
                             'SR' => 'San Ramón',
                             'FL' => 'La Florida',
